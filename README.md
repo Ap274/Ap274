@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80" align="right" height="410em" width=50%>
 
-<!--
-**Ap274/Ap274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left"> Hey, I'm Aldo Pires </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me:**
+
+<p>&bull; 🚀 Enchanting myself every day with the world of programming </p>
+<p>&bull; &#128663 Finishing my degree in automotive engineering</p>
+<p>&bull; 📚 I'm currently learning about Next.js</p>
+<p>&bull; 😀 Always studying new technologies</p>
+
+**Language and tools:**
+
+<img src="https://user-images.githubusercontent.com/67757479/240067964-f121a807-7c00-4aed-9cd9-5af591ccdf7a.png" height=20 align="left"/>
+<img src="https://user-images.githubusercontent.com/67757479/240067948-736cc643-f28a-4bc2-963a-c4bf1502094a.png" height=20 align="left"/>
+<img src="https://user-images.githubusercontent.com/67757479/240067903-d9b156be-0133-49df-b4f7-13a18a54032e.png" height=20 align="left"/>
+<img src="https://user-images.githubusercontent.com/67757479/240067775-78909091-8298-47b1-af98-d72c0c8a7ca5.png" height=20 align="left"/>
+
+<br><br>
+<i>Under construction ⚡
+  
