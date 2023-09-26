@@ -6,8 +6,8 @@
 **About me:**
 
 <p>&bull; 🚀 Enchanting myself every day with the world of programming </p>
-<p>&bull; &#128663 Finishing my degree in automotive engineering</p>
-<p>&bull; 📚 I'm currently learning about Next.js</p>
+<p>&bull; &#128663 Graduated in Automotive Engineering</p>
+<p>&bull; 📚 I'm currently learning about React Native</p>
 <p>&bull; 😀 Always studying new technologies</p>
 
 **Language and tools:**
