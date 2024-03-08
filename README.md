@@ -7,7 +7,7 @@
 
 <p>&bull; 🚀 Enchanting myself every day with the world of programming </p>
 <p>&bull; &#128663 Graduated in Automotive Engineering</p>
-<p>&bull; 📚 I'm currently learning about React Nata</p>
+<p>&bull; 📚 I'm currently learning about React Native</p>
 <p>&bull; 😀 Always studying new technologies</p>
 
 **Language and tools:**
